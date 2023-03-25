@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi 👋 I am a student developer who dreams of Backend developer.
 
+### 😄Tech Stack😄
+#### Language
+Python, Java, C, JavaScript
+#### Framwork
+node.js, 
+#### IDE
+VSCode, Visual Studio 2019, intellij
+#### DB
+MySQL
 <!--
 **seungjaejeon/seungjaejeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +23,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### 🌱Learning🌱
+#### Language
+Java
+#### Framework
+Spring
+
+---
+### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjaejeon&show_icons=true&theme=radical)
