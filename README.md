@@ -1,13 +1,13 @@
-## Hi 👋 I am a student developer who dreams of Backend developer.
+# Hi 👋 I am a student developer who dreams of Backend developer.
 
-### 😄Tech Stack😄
-#### Language
+## 😄Tech Stack😄
+### Language
 Python, Java, C, JavaScript
-#### Framwork
+### Framwork
 node.js, Express
-#### IDE
+### IDE
 VSCode, Visual Studio 2019, intellij
-#### DB
+### DB
 MySQL
 <!--
 **seungjaejeon/seungjaejeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### 🌱Learning🌱
-#### Language
+## 🌱Learning🌱
+### Language
 Java
-#### Framework
+### Framework
 Spring
 
 ---
