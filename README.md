@@ -4,7 +4,7 @@
 ### Language
 Python, Java, C, JavaScript
 ### Framwork
-node.js, Express
+node.js, Express JS
 ### IDE
 VSCode, Visual Studio 2019, intellij
 ### DB
