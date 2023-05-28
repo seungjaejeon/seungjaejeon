@@ -23,7 +23,7 @@
     - `**제 2전공 컴퓨터.전자시스템공학부**`
     - `**전체 학점 (3.73 / 4.5)**`
 - 육군 병장 만기제대
-    - `**2020.05.12 ~ 2021.11.12**`
+    - `**2020.05.12 ~ 2021.11.15**`
 
 ### 🎫**Certificate**
 
@@ -32,12 +32,11 @@
 # ⚒️ Skills
 
 
-
-**상 · 중 · 하** 수준으로 분류하였습니다.
-
 **Hard Skills**
 
+
 - Language
+---
     
     Python
     
@@ -48,18 +47,18 @@
     Java
     
 - Framework
-    
+ ---   
     Node.js
     
     Spring
     
 - DB
-    
+---
     MYSQL
     
 
 **Soft Skills**
-
+---
 커뮤니케이션
 
 이해력
@@ -69,7 +68,7 @@
 리더십
 
 **Tools**
-
+---
 VSCode
 
 intelliJ
@@ -102,6 +101,7 @@ Android Studio
 | --- | --- |
 | GitHub | https://github.com/seungjaejeon |
 | instagram | https://www.instagram.com/sj_01.21/ |
+| Notion | https://frequent-anise-661.notion.site/2972046b30204b22b5d3d70e66338b37 |
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjaejeon&show_icons=true&theme=radical)
