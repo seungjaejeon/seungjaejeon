@@ -103,5 +103,3 @@ Android Studio
 | instagram | https://www.instagram.com/sj_01.21/ |
 | Notion | https://frequent-anise-661.notion.site/2972046b30204b22b5d3d70e66338b37 |
 
-//### GitHub Stats
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjaejeon&show_icons=true&theme=radical)
