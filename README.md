@@ -1,105 +1,51 @@
-# 백엔드 개발자 전승재
-
-> 👋 안녕하세요, 공부하는 백엔드 개발자 전승재입니다.
-> 
-
-# 🔎 Profile
-
-
-### 👨🏻‍💻 기본 인적 사항
-
-- 전 승 재 (SeungJae Jeon)
-- Email : sj3165415@gmail.com
-- 생년월일 : 2000년 01월 21일
-- Phone number : 010-9063-7421
-
-### 🎓 학력 및 병역
-
-- 효원고등학교 졸업
-    - `**2015.03 ~ 2018.02**`
-- 한국외국어대학교 학사 졸업 예정
-    - `**2018.03 ~ 2024.02 (졸업 예정)**`
-    - `**제 1전공 전자공학과**`
-    - `**제 2전공 컴퓨터.전자시스템공학부**`
-    - `**전체 학점 (3.73 / 4.5)**`
-- 육군 병장 만기제대
-    - `**2020.05.12 ~ 2021.11.15**`
-
-### 🎫**Certificate**
-
-- `**정보처리기사 합격 (2023 제 1회)**`
-
-# ⚒️ Skills
-
-
-**Hard Skills**
-
-
-- Language
----
-    
-    Python
-    
-    C
-    
-    JavaScript
-    
-    Java
-    
-- Framework
- ---   
-    Node.js
-    
-    Spring
-    
-- DB
----
-    MYSQL
-    
-
-**Soft Skills**
----
-커뮤니케이션
-
-이해력
-
-문제 해결 능력
-
-리더십
-
-**Tools**
----
-VSCode
-
-intelliJ
-
-Android Studio
-
-# 👩🏻‍💻 Projects
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungJae%20Github!&fontSize=90" />	
+</div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/intelliJ-2C2255?style=flat&logo=intellijidea&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://www.instagram.com/sj_01.21/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+	</a>
+	<a href="https://frequent-anise-661.notion.site/2972046b30204b22b5d3d70e66338b37?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjaejeon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=seungjaejeon&show_icons=true">
 
 
-담당한 프로젝트를 최신순으로 구성했습니다.
-
-[🏃🏻‍♂️프로젝트](https://www.notion.so/712a4b7e79044652921ed703431f201d)
-
-# 🙋🏻 How i work
-
-
-- 일에서 가장 중요한 것은 커뮤니케이션이라고 생각해요.
-- 항상 밝고 적극적으로 임해요.
-- 목표 달성도 중요하지만 일의 과정에서 재미를 찾는 편이에요.
-- 사소한 일이어도 끝까지 책임감을 가지고 수행해요.
-- 문제가 생겨도 그에 대한 해결방안을 다양한 시각에서 찾아요.
-- 함께 정한 기한은 반드시 지키려고 노력해요.
-
-# 👋 Contact
-
-
-✉️ [sj3165415@gmail.com](mailto:sj3165415@gmail.com)   📱+82 10-9063-7421   🏠 경기도 수원시
-
-| SNS | Link |
-| --- | --- |
-| GitHub | https://github.com/seungjaejeon |
-| instagram | https://www.instagram.com/sj_01.21/ |
-| Notion | https://frequent-anise-661.notion.site/2972046b30204b22b5d3d70e66338b37 |
-
+</div>
