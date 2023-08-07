@@ -41,6 +41,9 @@
 	<a href="https://frequent-anise-661.notion.site/2972046b30204b22b5d3d70e66338b37?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	<a href="https://velog.io/@seungjae">
+		<img src="https://img.shields.io/badge/Blog-EEEEEE?style=flat&logo=velog&logoColor=black" />
+	</a>
 	<br>
 </div>
 <div align=center>
