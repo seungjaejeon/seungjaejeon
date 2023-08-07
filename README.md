@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 SNS & Portfolio & Blog 🎨</p>
 </div>
 <div align=center>
 	<a href="https://www.instagram.com/sj_01.21/">
