@@ -46,10 +46,10 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjaejeon&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=seungjaejeon&show_icons=true">
-
-
+<div align="center">
+	<p>📌 my github stats 📌</p>
+	<a href="https://github.com/oU-Ua/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seungjaejeon&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seungjaejeon&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
+</a>
 </div>
