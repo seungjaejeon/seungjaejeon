@@ -53,3 +53,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seungjaejeon&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
 </a>
 </div>
+
+<div align="center">
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjyk2002)](https://solved.ac/sjyk2002/)
+</div>
